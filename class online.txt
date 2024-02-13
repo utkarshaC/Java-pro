@@ -1,0 +1,25 @@
+//java  kotlin
+
+//oops
+
+//snake case canle case
+
+Spring
+
+Simple Object oriented and Familiar
+
+java is of full Security
+
+java has garbage colllection
+java has interpreter as well as compiler
+ child class :-
+	
+
+www.javapoint.com
+
+www.HackerRank.com
+java bacic
+ [select java 15]
+object and class are imp in java.
+eclips and netplins/netpins
+
